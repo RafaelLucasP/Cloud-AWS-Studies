@@ -21,6 +21,6 @@ Com isso terei uma base de estudos sólida e estruturada no próprio exame da AW
 
 Todos meus estudos serão separados por tópicos e enumerados em diretórios desse repositório, cada diretório conterá um arquivo markdown resumindo o que foi estudado e em casos de necessidade os códigos ou links para arquivos utilizados.
 
-- [Seção 01 - Introdução]()
+- [Seção 01 - Introdução](https://github.com/RafaelLucasP/Cloud-AWS-Studies/tree/main/Introdu%C3%A7%C3%A3o)
 - Seção 02 - EC2 (*Em Breve*)
 ----------------------------------------------------------
